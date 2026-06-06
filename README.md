@@ -5,7 +5,7 @@
 ### CSE @ NIT Calicut · Systems · Databases · Backend · Applied AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sanjita-bhaavya-ganesh/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sanjita--Ganesh-black?style=for-the-badge\&logo=github)](https://github.com/sanjitaganesh)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjitaganesh-black?style=for-the-badge\&logo=github)](https://github.com/sanjitaganesh)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:sanjitaganesh@gmail.com)
 
 </div>

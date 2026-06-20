@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a second-year Computer Science undergraduate at **NIT Calicut**, interested in building technically solid projects across systems, databases, backend engineering, and applied AI/ML.
+I am a third-year Computer Science undergraduate at **NIT Calicut**, interested in building technically solid projects across systems, databases, backend engineering, and applied AI/ML.
 
 My current focus is on strengthening **DSA, core CS fundamentals, database internals, backend systems, and GenAI/RAG pipelines**.
 
